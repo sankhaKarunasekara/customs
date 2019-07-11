@@ -1,14 +1,14 @@
-### customs vision 
+### 1) customs vision 
 
 To become the best customs service in South Asia
 
-### customs mission 
+### 2) customs mission 
 The Sri Lanka Customs is dedicated to enforce revenue and social protection laws of the state while facilitating the trade with the objective of contributing to the national effort and in due recognition thereof
 
-### who is the first comptroller general of customs sri lanka?
+### 3) who is the first comptroller general of customs sri lanka?
 Mr. Antonny Bertolacci, the first Comptroller General of Customs on 14th June 1809. 
 
-### Restricted Items for Export
+### 4) Restricted Items for Export
 
 #### Export Control Licenses
 
@@ -22,9 +22,9 @@ The following License and permits are necessary for certain items under various 
 
 #### License
 
------------------------------------------
+------------------------------------------
 | Commodity |	Type of Approval/Authority |
----------------------------------------
+-------------|-----------------------------
 |Antiques	| Archaeological Certificate Archaeological Department|
 |Timber & wooden articles|	Department of Forest Conservation, Import and Export Control Department|
 |Tea	| Sri Lanka Tea Board|
@@ -39,4 +39,4 @@ The following License and permits are necessary for certain items under various 
 |Timber & wooden articles |	Department of Forest Conservation
 |Readymade Garments	| Ministry of Industry and Commerce|
 |Coconuts and coconut allied products | Coconut Development Authority|
--------------------------------------------
+----------------------------------------------------------------------
