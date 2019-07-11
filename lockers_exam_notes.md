@@ -22,6 +22,7 @@ The following License and permits are necessary for certain items under various 
 
 #### License
 
+-----------------------------------------
 | Commodity |	Type of Approval/Authority |
 ---------------------------------------
 |Antiques	| Archaeological Certificate Archaeological Department|
